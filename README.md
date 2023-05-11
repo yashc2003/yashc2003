@@ -1,4 +1,4 @@
-![Logo](https://github.com/yashc2003/yashc2003/blob/main/White%20Blue%20Modern%20Webinar%20Banner%20Landscape.gif)
+
 <h1 align="center">Hi 👋, I'm Yash Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <image align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
